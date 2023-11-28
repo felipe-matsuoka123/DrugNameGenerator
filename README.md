@@ -6,3 +6,5 @@ This project aims to develop an NLP that generates drug names based on a .txt fi
 
 Some names generated from the bigram model
 
+![Alt text](perceptron.png)
+
