@@ -1,13 +1,19 @@
-# Drug Name Generator
+# 🧬 Drug Name Generator
 
-This repository was based on Andrej Kaparthy's makemore video series (https://github.com/karpathy/makemore) 
+Welcome to the **Drug Name Generator** repository! This project is inspired by Andrej Karpathy's [makemore video series](https://github.com/karpathy/makemore). 
 
-This project aims to develop an NLP that generates drug names based on a .txt file dataset.
+🔍 **Objective**: Create unique drug names Natural Language Processing (NLP). Leveraging a .txt file dataset.
 
-## Some names generated from the Bigram model
+## 📈 Examples of Names Generated
 
-![Alt text](bigram.png)
+### Bigram Model Output
 
-## Some names generated from the Perceptron model
 
-![Alt text](perceptron.png)
+![Generated Drug Names from Bigram Model](bigram.png)
+
+### Perceptron Model Output
+
+
+![Generated Drug Names from Perceptron Model](perceptron.png)
+
+A special thank you to Andrej Kaparthy for sharing his amazing content through the [makemore video series](https://github.com/karpathy/makemore). His work has been a significant inspiration for this project.
